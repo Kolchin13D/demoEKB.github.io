@@ -2,7 +2,7 @@
     "name": "DemoRoomEKB",
     "short_name": "DemoRoomEKB",
     "start_url": ".",
-    "display": "standalone",
+    "display": "browser",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
     "description": "Demo Room EKB",
